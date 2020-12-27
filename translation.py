@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hy,I Am URL Uploader (URL-FILE)\n\nMy Master <b>@BestzBrothers</b>
+    START_TEXT = """Hy,I Am URL Uploader (URL-FILE)\n\nMy Master 🙇<b>@BestzBrothers</b>
       
 ☛ URL with Custom Thumbnail Support..
 
